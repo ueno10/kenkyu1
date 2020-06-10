@@ -169,7 +169,7 @@ class Chart extends React.Component {
                   <option value='2016'>28年度</option>
                   <option value='2017'>29年度</option>
                   <option value='2018'>30年度</option>
-                  <option value='2019'>31年</option>
+                  <option value='2019'>31年度</option>
                   </select>
               </div>
             </div>
