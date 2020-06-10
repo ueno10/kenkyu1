@@ -9,7 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://ueno10.github.io/kenkyu1",
   "devDependencies": {
+    "gh-pages": "^3.0.0",
     "react-scripts": "^3.4.1"
   },
   "dependencies": {
