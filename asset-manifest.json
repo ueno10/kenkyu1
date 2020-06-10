@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/kenkyu1/static/js/main.7b7c77e0.chunk.js",
-    "main.js.map": "/kenkyu1/static/js/main.7b7c77e0.chunk.js.map",
+    "main.js": "/kenkyu1/static/js/main.19b639dd.chunk.js",
+    "main.js.map": "/kenkyu1/static/js/main.19b639dd.chunk.js.map",
     "runtime-main.js": "/kenkyu1/static/js/runtime-main.e554b9a4.js",
     "runtime-main.js.map": "/kenkyu1/static/js/runtime-main.e554b9a4.js.map",
     "static/js/2.df1f2e20.chunk.js": "/kenkyu1/static/js/2.df1f2e20.chunk.js",
     "static/js/2.df1f2e20.chunk.js.map": "/kenkyu1/static/js/2.df1f2e20.chunk.js.map",
     "index.html": "/kenkyu1/index.html",
-    "precache-manifest.51864f918234b056176ede9187eb374a.js": "/kenkyu1/precache-manifest.51864f918234b056176ede9187eb374a.js",
+    "precache-manifest.9e5f31aab2434856e4a426abecd99651.js": "/kenkyu1/precache-manifest.9e5f31aab2434856e4a426abecd99651.js",
     "service-worker.js": "/kenkyu1/service-worker.js",
     "static/js/2.df1f2e20.chunk.js.LICENSE.txt": "/kenkyu1/static/js/2.df1f2e20.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e554b9a4.js",
     "static/js/2.df1f2e20.chunk.js",
-    "static/js/main.7b7c77e0.chunk.js"
+    "static/js/main.19b639dd.chunk.js"
   ]
 }
